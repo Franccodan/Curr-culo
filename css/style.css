@@ -1,6 +1,11 @@
+
+.parag {
+    margin-top: 0;
+}
+
 body {
-    background: rgb(241,236,236);
-    background: linear-gradient(180deg, rgba(241,236,236,1) 85%, rgba(211,213,208,1) 100%);
+    background-color: rgb(241, 236, 236);
+    margin: 0;
 }
 .container {
     width: 900px;
@@ -64,7 +69,7 @@ p {
 }
 
 .footer {
-    margin-top: 40px;
+    margin-top: 60px;
     color: white;
     text-align: center;
     padding: 10px 0;
